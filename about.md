@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# An Overview
+## An Overview
 
 I got my B.S. in History from Texas Woman's University, with a minor in Multicultural Women's and Gender Studies. I'm currently in Northeastern's Public History master's program. I completed my senior capstone on early American women's travel narratives.
 
